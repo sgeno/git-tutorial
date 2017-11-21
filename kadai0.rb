@@ -6,3 +6,4 @@ print "FizzBuss\n"
 elsif i%3==0
 print "Fizz\n"
 
+#kadai
